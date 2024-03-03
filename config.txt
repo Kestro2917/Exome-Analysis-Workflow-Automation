@@ -1,0 +1,15 @@
+## This Is configuration file. Please replace the paths below with your paths.
+## Third Party Tools
+bwa=/opt/ngs_softwares/bwa-0.7.5a/bwa
+picard=/opt/ngs_softwares/picard-tools-1.100/
+GATK=/opt/ngs_softwares/GenomeAnalysisTK-2.5-2-gf57256b/GenomeAnalysisTK.jar
+Qualimap=(null)
+Mutect=/opt/ngs_softwares/mutect-1.1.7.jar
+oncotator=/opt/ngs_softwares/oncotator-1.9.2.0/oncotator/Oncotator.py
+candra=/opt/ngs_softwares/CanDrA.v+/
+dbNSFP=/opt/databases/dbNSFPv2.4/download/
+## Reference Paths
+human_bwa_index=/media/LUN4/bikram_/water_hose/human_reference_index/
+threads=20
+
+
